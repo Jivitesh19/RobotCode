@@ -6,7 +6,7 @@ C++ control code for a VEX competition robot that I programmed and competed with
 
 * Programmed drivetrain, arm, and claw motor controls in C++
 * Implemented variable-speed drivetrain control
-* Controlled a gear-driven claw capable of continuous 360-degree rotation
+* Controlled a gear-driven claw capable of 360-degree rotation
 * Integrated software and mechanical systems for competition use
 
 ## Technologies
@@ -17,4 +17,4 @@ C++ control code for a VEX competition robot that I programmed and competed with
 
 ## Project
 
-The robot was designed for VEX Robotics competitions, where I worked on both the programming and mechanical systems. The code in `main.cpp` contains the primary driver-control logic used to operate the robot during competition.
+The robot was designed for state of Colorado's Technology Student Association Robotics competitions, where I worked on both the programming and mechanical systems. The code in `main.cpp` contains the primary driver-control logic used to operate the robot during competition.
